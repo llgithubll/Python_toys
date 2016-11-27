@@ -194,4 +194,4 @@ for i in range(len(txt)):
 ...
 ```
 
-最后，模仿着 Python [re模块]() 的接口实现一个类似的 Re 模块和 Regex 类，就基本完成了。
+最后，模仿着 Python [re模块](https://docs.python.org/3/library/re.html?highlight=re#module-re) 的接口实现一个类似的 Re 模块和 Regex 类，就基本完成了。
