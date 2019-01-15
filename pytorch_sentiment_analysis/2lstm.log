@@ -1,0 +1,13 @@
+nohup: ignoring input
+prepare data time: 99.17384386062622
+build vocabulary time: 100.67842435836792
+torch.Size([25002, 100])
+Epoch: 00, Train loss: 0.676, Train acc: 0.58, Valid loss: 0.636, Valid acc: 0.64 72769.67191338539
+Epoch: 01, Train loss: 0.592, Train acc: 0.69, Valid loss: 0.645, Valid acc: 0.61 162221.97912096977
+Epoch: 02, Train loss: 0.588, Train acc: 0.69, Valid loss: 0.594, Valid acc: 0.68 38779.331134319305
+Epoch: 03, Train loss: 0.463, Train acc: 0.79, Valid loss: 0.394, Valid acc: 0.84 31167.743415355682
+Epoch: 04, Train loss: 0.324, Train acc: 0.86, Valid loss: 0.305, Valid acc: 0.88 137723.581458807
+Test loss: 0.355, Test acc: 0.85
+This film is terrible 0.02341536432504654
+This film is stupid 0.030976496636867523
+This film is awesome 0.9658042788505554

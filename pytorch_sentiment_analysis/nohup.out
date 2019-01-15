@@ -1,0 +1,7 @@
+prepare data time: 111.68698048591614
+build vocabulary time: 114.33939552307129
+torch.Size([25002, 100])
+Traceback (most recent call last):
+  File "2lstm.py", line 204, in <module>
+    print('Epoch: %02d, Train loss: %.3f, Train acc: %.2f%, Valid loss: %.3f, Valid acc: %.2f%' %           (epoch, train_loss, 100*train_acc, valid_loss, 100*valid_acc), time.time() - begin_t)
+ValueError: unsupported format character ',' (0x2c) at index 47
